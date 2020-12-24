@@ -2,6 +2,44 @@
 
 ![views](https://visitor-badge.laobi.icu/badge?page_id=botir-01.botir-01)
 
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Botir Tursunov"
+        self.position = "Software Engineer"
+        self.location = "Tashkent, Uzbekistan"
+        self.skills = [
+            "Software Enginnering",
+            "Backend Engineering",
+            "Web Development",
+        ]
+        self.skills.insert(0, "Algorithms and Data Structures")
+
+    def greeting(self):
+        print(
+            """Hello folks!
+
+This is {name}, I live in {location}. Currently, I am a student at Webster University and recently I am focusing on {focus} for my personal growth.
+
+I have many interests, but most of them are {skills}. I like solving complex logic tasks and enjoy while coding""".format(
+                name=self.name,
+                location=self.location,
+                focus=self.skills[0],
+                skills=", ".join(self.skills[1:]),
+            )
+        )
+
+
+me = SoftwareEngineer()
+me.greeting()
+
+```
+
 ### 
 
 <!--
