@@ -1,6 +1,7 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+<h1>Hi there 👋 I'm Botir<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-### Hi there 👋
+
+### 
 
 <!--
 **Botir-01/Botir-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
