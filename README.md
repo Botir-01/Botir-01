@@ -1,5 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there!  I'm Botir 👋</h1>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Botir-01.Botir-01)
+
+![views](https://visitor-badge.laobi.icu/badge?page_id=botir-01.botir-01)
 
 ### 
 
