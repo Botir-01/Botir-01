@@ -76,5 +76,10 @@ me.greeting()
 </a>
 
 
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Botir-01/Python-3-mini-projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=botir-01&repo=Python-3-mini-projects&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python-3-mini-projects" />
+</a>
 
 
