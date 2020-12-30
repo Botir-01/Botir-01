@@ -84,6 +84,9 @@ me.greeting()
 <a href="https://github.com/Botir-01/WebBlogApplication">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=botir-01&repo=WebBlogApplication&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="WebBlogApplication" />
 </a>
+<a href="https://github.com/Botir-01/Movie-rater">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=botir-01&repo=Movie-rater&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Movie-rater" />
+</a>
 
 
 <!-- ### 🧑‍💻  This week, I spent my time on:
