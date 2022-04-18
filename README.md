@@ -14,7 +14,7 @@ class SoftwareEngineer:
         self.position = "Software Engineer"
         self.location = "Tashkent, Uzbekistan"
         self.skills = [
-            "Software Enginnering",
+            "Software Engineering",
             "Backend Engineering",
             "Web Development",
         ]
