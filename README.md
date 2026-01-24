@@ -12,8 +12,9 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Botir Tursunov"
         self.position = "Software Engineer"
-        self.location = "Tashkent, Uzbekistan"
+        self.location = "NYC, USA"
         self.skills = [
+            "AI Engineering",
             "Software Engineering",
             "Backend Engineering",
             "Web Development",
@@ -25,7 +26,7 @@ class SoftwareEngineer:
         print(
             """Hello folks!
 
-This is {name}, I live in {location}. I am a student at Webster University and recently I am focusing on {focus} for my personal growth.
+This is {name}, I live in {location}. I am graduated from and recently I am focusing on {focus} for my personal growth.
 
 I have many interests, but most of them are {skills}. I like solving complex logic tasks and enjoy while coding""".format(
                 name=self.name,
