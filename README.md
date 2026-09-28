@@ -19,8 +19,7 @@ class SoftwareEngineer:
             "Backend Engineering",
             "Web Development",
         ]
-        self.skills.insert(0, "Algorithm and Data structures")
-        self.skills.insert(1, "Blockchain technologies")
+        self.skills.insert(0, "Machine Learning and Deep Learning")
 
     def greeting(self):
         print(
